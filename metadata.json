@@ -1,9 +1,0 @@
-{
-  "name": "IdolSnap - AI Photobooth",
-  "description": "Create a 4-cut photo strip with your favorite idol using AI. Features Gemini 2.5 for image editing, identification, and Veo for video generation.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone",
-    "geolocation"
-  ]
-}
